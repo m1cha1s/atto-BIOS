@@ -1,3 +1,1 @@
-pub trait Serial {
-    fn read(&self, )
-}
+pub mod serial;
